@@ -1,0 +1,10 @@
+# This file is used by the build system to avoid bundling certain files
+# See https://create-react-app.dev/docs/using-the-public-folder/#adding-assets-outside-of-src
+
+# You can add files here that you don't want to be processed by the build system.
+# For example, you can add files here that are only used in development.
+
+# Example:
+# favicon.ico
+# robots.txt
+# sitemap.xml
